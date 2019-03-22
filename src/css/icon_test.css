@@ -1,0 +1,2028 @@
+.macro_brock1 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/clarinet.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock2 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/fiddle.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock3 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/fife.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock4 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/flute.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock5 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/harp.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock6 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/lute.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock7 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/oboe.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock8 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/panpipes.png");
+    background-position: center;
+    background-size: 54px;
+}
+
+.macro_brock9 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/00_Perform/piano.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock10 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/01/attacker_stance.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock11 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/01/defender_stance.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock12 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/01/follow.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock13 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/01/free_stance.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock14 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/01/healer_stance.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock15 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/01/withdraw.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock16 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/02/disengage.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock17 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/02/display_order_hotbar.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock18 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/02/engage.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock19 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/02/execute_limit_break.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock20 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/01_Orders/02/re-engage.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock21 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/advanced_materia_melding.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock22 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/aetherial_reduction.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock23 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/auto-attack.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock24 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/cast_glamour.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock25 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/decipher.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock26 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/desynthesis.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock27 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/dig.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock28 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/duty_action_i.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock29 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/dye.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock30 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/flying_mount_roulette.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock31 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/glamour_plate.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock32 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/jump.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock33 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/limit_break.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock34 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/materia_assimilating.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock35 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/materia_melding_I.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock36 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/minion_roulette.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock37 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/mount_roulette.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock38 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/repair.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock39 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/return.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock40 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/sprint.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock41 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/target_back.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock42 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/target_forward.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock43 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/02_General/teleport.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock44 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/achievements.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock45 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/actions_&_traits.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock46 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/armoury_chest.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock47 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/character.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock48 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/chocobo_saddlebag.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock49 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/companions.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock50 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/currency.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock51 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/gold_saucer.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock52 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/inventory.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock53 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/minion_guide.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock54 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/mount_guide.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock55 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/pvp_profile.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock56 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/01/stance.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock57 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/duty_finder.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock58 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/duty_recorder.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock59 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/hall_of_the_novice.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock60 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/journal.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock61 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/key_items.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock62 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/raid_finder.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock63 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/recommendations.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock64 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/02/timers.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock65 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/challenge_log.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock66 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/crafting_log.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock66 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/fish_guide.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock67 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/fishing_log.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock68 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/gathering_log.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock69 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/hunting_log.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock70 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/orchestrion_list.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock71 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/03/sightseeing_log.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock72 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/04/aether_currents.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock73 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/04/map.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock74 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/04/mount_speed.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock75 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/countdown.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock76 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/party_finder.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock77 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/party_members.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock78 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/ready_check.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock79 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/record_ready_check.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock80 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/signs.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock81 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/05/waymarks.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock82 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/blacklist.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock83 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/contacts.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock84 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/cross-world_linkshell.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock85 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/emotes.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock86 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/free_company.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock87 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/friend_list.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock88 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/housing.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock89 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/linkshells.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock90 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/player_search.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock91 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/06/pvp_team.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock92 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/active_help.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock93 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/character_configuration.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock94 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/exit_game.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock95 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/hud_layout.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock96 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/keybind.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock97 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/log_out.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock98 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/log_out.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock99 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/playguide.png");
+    background-position: center;
+    background-size: 54px;
+}
+.macro_brock100 {
+    height: 50px;
+    width: 50px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+
+    background-image: url("../resource/03_MainCommands/07/support_desk.png");
+    background-position: center;
+    background-size: 54px;
+}

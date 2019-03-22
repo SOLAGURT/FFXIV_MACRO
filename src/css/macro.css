@@ -1,0 +1,119 @@
+body {
+    margin: 5px;
+}
+.macro_ui_frame {
+    width: 840px;
+    border-radius: 4px;
+    box-shadow :
+            -1.6px -1.6px 0 0 #050000,
+            -3.0px -3.0px 0 0 #352b2e,
+            -3.4px -3.4px 0 0 #554a3a,
+            -4.6px -4.6px 0 0 #ffffc9,
+            0 0 0 1.2px #0f0f0e,
+            inset 0 1px 0 0 #9d9993,
+            inset 0 2px 0 0 #65645d,
+            1.6px 1.6px 0 0 #2e2821,
+            3.0px 3.0px 0 0 #000205,
+            3.4px 3.4px 0 0 #9d8860,
+            3.8px 3.8px 0 0 #8b6f40,
+            4.2px 4.2px 0 0 #796137,
+            4.6px 4.6px 0 0 #9d8860,
+            0 0 0 5.0px #584928,
+            0 0 0 5.4px #1d190d,
+            0.2px 0.2px 0 6.4px #030402;
+    background-color: #282828;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.macro_ui_box {
+    display: flex;
+}
+#macro_ui_title {
+    display: flex;
+    position: relative;
+    margin-left: 14px;
+    margin-right: 14px;
+    box-shadow:
+            0 1.5px 0 0  #131313,
+            0 2.0px 0 0 #534f53,
+            0 2.5px 0 0  #484348,
+            0 3.0px 0 0  #353435;
+}
+#macro_ui_title_en {
+    width: 90px;
+    padding-top: 8px;
+    color: #c7c7c7;
+    text-shadow: 0 1px 0.5px #929292;
+    font-size: 23px;
+    font-family: "MS UI Gothic";
+    font-stretch: ultra-condensed;
+}
+#macro_ui_title_jp {
+    height: 16px;
+    position: absolute;
+    bottom: 0;
+    padding-left: 100px;
+    padding-top: 8px;
+    color: #ecdebf;
+    text-shadow: 0 1px 0.5px #beb39a;
+    font-size: 11px;
+}
+#macro_ui_title_border {
+    margin-top: 4px;
+    margin-left: 16px;
+    /*border-top: 4px groove #484348;*/
+
+    width: 808px;
+}
+.macro_icon_grid {
+    max-width: 500px;
+    max-height: 500px;
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(10, 1fr);
+}
+
+#macro_chose_icon {
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    float: left;
+    /*border: 2px solid #666666;*/
+    /*background-color: #ccc;*/
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 3px #000;
+    -ms-box-shadow: inset 0 0 3px #000;
+    box-shadow: inset 0 0 3px #000;
+    text-align: center;
+    cursor: move;
+}
+#macro_content {
+    width: 350px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+#macro_title {
+
+}
+#macro_command {
+
+}
+ul {
+    padding: 10px;
+}
+li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*border: dotted 1px #999;*/
+    text-align: center;
+}
+.icon_limit_break {
+    background-image: url("../resource/02_General/limit_break.png");
+    background-size: 50px;
+}
