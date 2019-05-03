@@ -22,6 +22,10 @@ body {
             0 0 0 5.4px #1d190d,
             0.2px 0.2px 0 6.4px #030402;
     background-color: #282828;
+    /*
+    filter: drop-shadow(4px 4px 0px #1dff0f)
+            drop-shadow(8px 8px 0px #2216ff);
+    */
     margin-top: 30px;
     margin-left: 30px;
 }
